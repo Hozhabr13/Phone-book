@@ -1,0 +1,11 @@
+@import './assets/variables.scss';
+
+.container {
+  text-align: center;
+  max-width: 1400px;
+  margin: 0 auto
+}
+
+body {
+  background-color: $based-gray;
+}

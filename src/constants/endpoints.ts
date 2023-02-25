@@ -1,0 +1,1 @@
+export const GET_CONTACTS = (count: number) => `https://randomuser.me/api/?results=${count}`
